@@ -5,6 +5,7 @@
 ## Build generated
 build/
 DerivedData/
+/KKImagePickerSample/KKImagePicker
 
 ## Various settings
 *.pbxuser
